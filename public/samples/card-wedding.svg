@@ -1,0 +1,11 @@
+<svg width="400" height="560" viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="560" fill="#FBF3EC"/>
+  <rect x="14" y="14" width="372" height="532" fill="none" stroke="#C9A98B" stroke-width="2"/>
+  <path d="M42 42 Q82 17 112 47 Q92 67 42 42" fill="#B7202E" opacity="0.5"/>
+  <path d="M358 518 Q318 543 288 513 Q308 493 358 518" fill="#B7202E" opacity="0.5"/>
+  <rect x="115" y="115" width="170" height="170" rx="10" fill="#F1D9CE" stroke="#B7202E" stroke-width="5"/>
+  <circle cx="200" cy="176" r="30" fill="#B7202E" opacity="0.85"/>
+  <path d="M134 268 L170 220 L198 246 L228 208 L266 268 Z" fill="#8F1621" opacity="0.85"/>
+  <text x="200" y="356" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#B7202E" text-anchor="middle">Wedding Invitation</text>
+  <text x="200" y="400" font-family="Georgia, serif" font-size="18" fill="#5C4A38" text-anchor="middle">Kirolos &amp; Mariam</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="400" height="560" viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="560" fill="#F7F1EA"/>
+  <rect x="14" y="14" width="372" height="532" fill="none" stroke="#C9A98B" stroke-width="2"/>
+  <path d="M34 34 Q64 14 94 39 Q74 59 34 34" fill="#8FA07A" opacity="0.7"/>
+  <path d="M366 526 Q336 546 306 521 Q326 501 366 526" fill="#8FA07A" opacity="0.7"/>
+  <rect x="120" y="120" width="160" height="160" rx="10" fill="#EADFD2" stroke="#B7202E" stroke-width="5"/>
+  <circle cx="200" cy="178" r="28" fill="#B7202E" opacity="0.85"/>
+  <path d="M138 262 L172 216 L198 242 L226 206 L262 262 Z" fill="#8F1621" opacity="0.85"/>
+  <text x="200" y="352" font-family="Georgia, serif" font-style="italic" font-size="30" fill="#B7202E" text-anchor="middle">Engagement</text>
+  <text x="200" y="396" font-family="Georgia, serif" font-size="18" fill="#5C4A38" text-anchor="middle">Kirolos &amp; Mariam</text>
+  <text x="200" y="428" font-family="Georgia, serif" font-size="16" fill="#5C4A38" text-anchor="middle">23 . 05 . 2026</text>
+</svg>

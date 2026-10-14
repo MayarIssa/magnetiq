@@ -1,0 +1,13 @@
+<svg width="400" height="560" viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="560" fill="#ffffff"/>
+  <rect x="14" y="14" width="372" height="532" fill="none" stroke="#B7202E" stroke-width="2"/>
+  <text x="200" y="62" font-family="Georgia, serif" font-size="18" fill="#3A3A3A" text-anchor="middle" letter-spacing="3">WELCOME TO OUR</text>
+  <text x="200" y="102" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#B7202E" text-anchor="middle">Proposal</text>
+  <circle cx="189" cy="130" r="10" fill="none" stroke="#B7202E" stroke-width="3"/>
+  <circle cx="211" cy="130" r="10" fill="none" stroke="#B7202E" stroke-width="3"/>
+  <rect x="110" y="160" width="180" height="220" rx="10" fill="#F1D9CE" stroke="#B7202E" stroke-width="5"/>
+  <circle cx="200" cy="238" r="32" fill="#B7202E" opacity="0.85"/>
+  <path d="M150 330 L185 272 L215 306 L245 260 L292 330 Z" fill="#8F1621" opacity="0.85"/>
+  <text x="200" y="432" font-family="Georgia, serif" font-size="20" fill="#3A3A3A" text-anchor="middle">KIROLOS &amp; MARIAM</text>
+  <text x="200" y="464" font-family="Georgia, serif" font-size="16" fill="#3A3A3A" text-anchor="middle">16 . 05 . 2026</text>
+</svg>
